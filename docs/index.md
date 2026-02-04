@@ -12,7 +12,7 @@ Este documento tiene como objetivo:
 
 ### Estructura de la web
 
-- **El Proyecto**: Documento fundacional completo del Libro Blanco.  
+- [**El Proyecto**](proyecto.md): Documento fundacional completo del Libro Blanco.  
 - **Metodología** (en desarrollo): Explicación del proceso de elaboración y consenso.  
 - **Equipo** (en desarrollo): Información sobre los miembros del comité coordinador y paneles de expertos.  
 
