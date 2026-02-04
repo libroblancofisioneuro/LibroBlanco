@@ -1,0 +1,10 @@
+site_name: Libro Blanco de la Fisioterapia Neurológica en España
+site_description: Documento de consenso basado en evidencia para fisioterapeutas neurológicos en España
+site_author: Libro Blanco Fisioterapia Neurológica
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - El Proyecto: proyecto.md
