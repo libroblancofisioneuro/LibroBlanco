@@ -1,6 +1,6 @@
 # Libro Blanco de la Fisioterapia Neurológica en España
 
-Bienvenido al **Libro Blanco de la Fisioterapia Neurológica en España**, un proyecto nacional destinado a consolidar la evidencia científica disponible y adaptarla al contexto sanitario y profesional español.
+Bienvenido/a al **Libro Blanco de la Fisioterapia Neurológica en España**, un proyecto nacional destinado a consolidar la evidencia científica disponible y adaptarla al contexto sanitario y profesional español.
 
 Este documento tiene como objetivo:
 
